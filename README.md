@@ -26,7 +26,7 @@ RECOMMENDED to run in Pypy !
 Install Pypy
 $ sudo apt-get install pypy
 
-Create a virtualenv that uses pypy
+Create a virtualenv that uses pypy and the pgi version of shoebot
 
 ```
 $ virtualenv env-audiobots -p `which pypy`
