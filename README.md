@@ -1,3 +1,7 @@
+Audio Vis Experiments in Shoebot
+--------------------------------
+
+
 These work in shoebot, install shoebot then it's requirements.
 
 pip install -r requirements.txt
@@ -14,6 +18,7 @@ for extra performance.
 
 
 Performance
+-----------
 
 RECOMMENDED to run in Pypy !
 
